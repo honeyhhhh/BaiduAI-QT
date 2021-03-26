@@ -21,9 +21,9 @@
 aip::Face *cli;
 
 Json::Value result;
-const std::string app_id = "17474908";
-const std::string api_key = "hrM5QjI7RVgcPILN2nBCWUh0";
-const std::string secret_key = "7orWnnqeKMkEjGRy8DeezEGO76Tkcqb7";
+const std::string app_id = "";
+const std::string api_key = "";
+const std::string secret_key = "";
 
 
 std::string file_content;
